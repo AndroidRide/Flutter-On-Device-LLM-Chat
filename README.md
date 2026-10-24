@@ -1,7 +1,7 @@
 # Flutter On-Device LLM Chat
 
-![App Screenshot](images/flutter local llm chat-1.png)
-![App Screenshot](images/flutter on device llm chat-2.png)
+![App Screenshot](images/flutter-local-llm-chat-1.png)
+![App Screenshot](images/flutter-on-device-llm-chat-2.png)
 
 A Flutter app that runs an LLM locally on the device using Gemma.
 
